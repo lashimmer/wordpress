@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ness\n"
+"POT-Creation-Date: 2014-10-07 13:22-0000\n"
+"PO-Revision-Date: 2014-10-07 13:22-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _e;__;_;esc_html_e;_n;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "Uh oh, page missing!"
+msgstr ""
+
+#: ../author.php:36 ../library/core.php:90
+msgid "Written by"
+msgstr ""
+
+#: ../comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:20
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:22
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:22
+msgid "One Response"
+msgstr ""
+
+#: ../comments.php:22
+msgid "% Response"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:49
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:66
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:89
+msgid "Website"
+msgstr ""
+
+#: ../date.php:13
+msgid "Daily Archives:"
+msgstr ""
+
+#: ../date.php:19
+msgid "Monthly Archives:"
+msgstr ""
+
+#: ../date.php:24
+msgid "Yearly Archives:"
+msgstr ""
+
+#: ../library/core.php:137
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../library/core.php:280
+msgid "No more articles"
+msgstr ""
+
+#: ../library/core.php:285
+msgid "Load More"
+msgstr ""
+
+#: ../library/core.php:832
+msgid "Read"
+msgstr ""
+
+#: ../library/core.php:1001
+msgid "Next Article"
+msgstr ""
+
+#: ../library/core.php:1006
+msgid "No Newer Articles"
+msgstr ""
+
+#: ../library/core.php:1022
+msgid "Previous Article"
+msgstr ""
+
+#: ../library/core.php:1027
+msgid "No Older Articles"
+msgstr ""
+
+#: ../library/core.php:1054
+msgid "Share This Article"
+msgstr ""
+
+#: ../library/core.php:1076
+msgid "Tags"
+msgstr ""
+
+#: ../library/core.php:1095
+msgid "Related Articles"
+msgstr ""
+
+#: ../library/core.php:1427
+msgid "(Edit)"
+msgstr ""
+
+#: ../library/core.php:1430
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../library/core.php:1632
+msgid "Continue Reading"
+msgstr ""
+
+#: ../library/core.php:1987
+msgid "Ness Post Format: Audio"
+msgstr ""
+
+#: ../library/core.php:2010
+msgid "-- Choose One --"
+msgstr ""
+
+#: ../search.php:10
+msgid "Search Results for:"
+msgstr ""
+
+#: ../search.php:24
+msgid "Sorry, nothing found."
+msgstr ""
+
+#: ../search.php:31
+msgid "Try searching with other keywords"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: ../tag.php:5
+msgid "Tagged:"
+msgstr ""

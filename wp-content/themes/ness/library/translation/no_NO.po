@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ness\n"
+"POT-Creation-Date: 2014-10-07 13:22-0000\n"
+"PO-Revision-Date: 2014-11-15 00:06+0100\n"
+"Last-Translator: Maciej Czech <maciej.czech@outlook.com>\n"
+"Language-Team: Cubell\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: _e;__;_;esc_html_e;_n;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "Uh oh, page missing!"
+msgstr "Ooops, Siden Mangler!"
+
+#: ../author.php:36 ../library/core.php:90
+msgid "Written by"
+msgstr "Skrevet av"
+
+#: ../comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette innlegget er passordbeskyttet. Login for å se kommentarer."
+
+#: ../comments.php:20
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../comments.php:22
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#: ../comments.php:22
+msgid "One Response"
+msgstr "Et svar"
+
+#: ../comments.php:22
+msgid "% Response"
+msgstr "% Svarer"
+
+#: ../comments.php:48
+msgid "Leave a Reply"
+msgstr "Legg igjen et svar"
+
+#: ../comments.php:49
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Legg igjen et svar til %s"
+
+#: ../comments.php:50
+msgid "Cancel Reply"
+msgstr "Slett svar"
+
+#: ../comments.php:51
+msgid "Post Comment"
+msgstr "Legg igjen kommentar"
+
+#: ../comments.php:53
+msgid "Your email address will not be published."
+msgstr "Din e-postadresse vil ikke publiseres."
+
+#: ../comments.php:54
+msgid "Comment"
+msgstr "Kommentar"
+
+#: ../comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du må være <a href=\"%s\">inlogget</a> for å skrive en kommentar."
+
+#: ../comments.php:66
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logget inn som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Logg ut "
+"av denne kontoen\">Logge ut?</a>"
+
+#: ../comments.php:76
+msgid "Name"
+msgstr "Navn"
+
+#: ../comments.php:82
+msgid "Email"
+msgstr "Epost"
+
+#: ../comments.php:89
+msgid "Website"
+msgstr "Webside"
+
+#: ../date.php:13
+msgid "Daily Archives:"
+msgstr "Daglig arkiv:"
+
+#: ../date.php:19
+msgid "Monthly Archives:"
+msgstr "Månedlig arkiv:"
+
+#: ../date.php:24
+msgid "Yearly Archives:"
+msgstr "Årlig arkiv:"
+
+#: ../library/core.php:137
+#, php-format
+msgid "View all posts in %s"
+msgstr "Vis alle innlegg fra %s"
+
+#: ../library/core.php:280
+msgid "No more articles"
+msgstr "ikke flere innlegg"
+
+#: ../library/core.php:285
+msgid "Load More"
+msgstr "Last ned mer"
+
+#: ../library/core.php:832
+msgid "Read"
+msgstr "Les"
+
+#: ../library/core.php:1001
+msgid "Next Article"
+msgstr "Neste innlegg"
+
+#: ../library/core.php:1006
+msgid "No Newer Articles"
+msgstr "Ingen nye innlegg"
+
+#: ../library/core.php:1022
+msgid "Previous Article"
+msgstr "Tidligere innlegg"
+
+#: ../library/core.php:1027
+msgid "No Older Articles"
+msgstr "Ingen eldre innlegg"
+
+#: ../library/core.php:1054
+msgid "Share This Article"
+msgstr "Del dette innlegget"
+
+#: ../library/core.php:1076
+msgid "Tags"
+msgstr "Tags"
+
+#: ../library/core.php:1095
+msgid "Related Articles"
+msgstr "Relaterte innlegg"
+
+#: ../library/core.php:1427
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: ../library/core.php:1430
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på moderering."
+
+#: ../library/core.php:1632
+msgid "Continue Reading"
+msgstr "Les videre"
+
+#: ../library/core.php:1987
+msgid "Ness Post Format: Audio"
+msgstr "Ness Post Format: Audio"
+
+#: ../library/core.php:2010
+msgid "-- Choose One --"
+msgstr "---Velg en---"
+
+#: ../search.php:10
+msgid "Search Results for:"
+msgstr "Søk resultater for:"
+
+#: ../search.php:24
+msgid "Sorry, nothing found."
+msgstr "Beklager, ingenting funnet."
+
+#: ../search.php:31
+msgid "Try searching with other keywords"
+msgstr "Prøv å søke med andre søkeord"
+
+#: ../searchform.php:2
+msgid "Search"
+msgstr "Søk"
+
+#: ../tag.php:5
+msgid "Tagged:"
+msgstr "Tagget:"

@@ -1,0 +1,22 @@
+<wpml-config>
+    <custom-fields>
+    
+        <custom-field action="copy">cb_featured_image_style</custom-field>
+        <custom-field action="copy">cb_post_like_count</custom-field>
+        <custom-field action="copy">cb_featured_image_style_override</custom-field>
+        <custom-field action="copy">cb_gallery_post_images</custom-field>
+        <custom-field action="copy">cb_video_post_url</custom-field>
+        <custom-field action="copy">cb_video_post_select</custom-field>
+        <custom-field action="copy">cb_video_post_selfhosted</custom-field>
+        <custom-field action="copy">cb_audio_post_selfhosted_mp3</custom-field>
+        <custom-field action="copy">cb_audio_post_selfhosted_ogg</custom-field>
+        <custom-field action="copy">cb_audio_post_select</custom-field>
+        <custom-field action="copy">cb_audio_post_url</custom-field>
+
+    </custom-fields> 
+    <custom-types>
+        <custom-type translate="0">option-tree</custom-type>
+    </custom-types> 
+</wpml-config>
+
+
